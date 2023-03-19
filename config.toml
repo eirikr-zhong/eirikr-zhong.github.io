@@ -1,4 +1,4 @@
-baseURL = "eirikr-zhong.github.io/just-blog"
+baseURL = "eirikr-zhong.github.io"
 title = "Eirikr's Blog"
 theme = "manis"
 
@@ -40,7 +40,7 @@ pygmentsUseClasses = true
 	# Site meta description
 	description = ""
 	# Site's Tagline (Subtitle or Keyword)
-	tagline = "Nothing sweeter than this"
+	tagline = "Traveling 365 days a year"
 	# If true give attribution to this theme
 	themeAttrib = false
 	# URL to license file, can be outside of your domain
